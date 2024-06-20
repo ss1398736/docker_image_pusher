@@ -1,4 +1,4 @@
-zlmediakit/zlmediakit:master
+golang:1.17-alpine
 #node:21-alpine  
 #支持指定架构
 #--platform=linux/arm64
