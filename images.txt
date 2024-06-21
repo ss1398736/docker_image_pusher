@@ -1,4 +1,4 @@
-rancher/rancher-agent:v2.5.15
+golang:1.21-alpine
 #node:21-alpine  
 #支持指定架构
 #--platform=linux/arm64
