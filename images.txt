@@ -1,4 +1,5 @@
 enmotech/opengauss
+--platform=linux/arm64
 #node:21-alpine  
 #支持指定架构
 #--platform=linux/arm64
