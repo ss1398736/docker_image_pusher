@@ -1,4 +1,4 @@
-elasticsearch:7.17.22
+myharbor.com/bigdata/hadoop:3.32
 
 #node:21-alpine  
 #支持指定架构
