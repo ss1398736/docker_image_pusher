@@ -1,4 +1,4 @@
-myharbor.com/bigdata/hadoop:3.32
+ghcr.io/fleeksoft/hbase/hbase-base:2.4.13.2
 
 #node:21-alpine  
 #支持指定架构
