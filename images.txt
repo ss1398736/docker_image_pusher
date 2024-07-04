@@ -1,4 +1,4 @@
-ghcr.io/fleeksoft/hbase/hbase-base:2.4.13.2
+apache/ranger:2.4.0
 
 #node:21-alpine  
 #支持指定架构
