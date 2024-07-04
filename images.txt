@@ -1,4 +1,4 @@
-apache/ranger:2.4.0
+apache/ranger
 
 #node:21-alpine  
 #支持指定架构
