@@ -1,4 +1,4 @@
-apache/ranger
+prom/prometheus:v2.39.1
 
 #node:21-alpine  
 #支持指定架构
