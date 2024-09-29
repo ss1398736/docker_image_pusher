@@ -1,5 +1,5 @@
 #milvusdb/milvus:v2.4.5
-sonarqube:10.6.0-community
+postgresql:14
 #node:21-alpine  
 #支持指定架构
 #--platform=linux/arm64
